@@ -8,6 +8,7 @@ Leetcode Problems solved by me with Love.
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Backtracking
 |  |
 | ------- |
@@ -40,9 +41,14 @@ Leetcode Problems solved by me with Love.
 ## Two Pointers
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
