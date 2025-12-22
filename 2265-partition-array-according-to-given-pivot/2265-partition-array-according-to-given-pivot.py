@@ -5,16 +5,20 @@ class Solution(object):
         :type pivot: int
         :rtype: List[int]
         """
-        less, more = [], []
-        eq = 0
+        n = len(nums)
+        lis = []
 
         for i in nums:
             if i < pivot:
-                less.append(i)
-            elif i == pivot:
-                eq += 1
-            else:
-                more.append(i)
+                lis.append(i)
+        
+        for i in nums:
+            if i == pivot:
+                lis.append(i)
 
-        return less + [pivot] * eq + more
+        for i in nums:
+            if i > pivot:
+                lis.append(i)
+
+        return lis
         
