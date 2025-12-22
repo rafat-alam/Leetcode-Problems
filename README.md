@@ -51,4 +51,9 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
