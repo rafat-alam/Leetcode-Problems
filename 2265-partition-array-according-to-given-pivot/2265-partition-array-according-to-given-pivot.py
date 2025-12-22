@@ -1,5 +1,10 @@
-class Solution:
-    def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
+class Solution(object):
+    def pivotArray(self, nums, pivot):
+        """
+        :type nums: List[int]
+        :type pivot: int
+        :rtype: List[int]
+        """
         less, more = [], []
         eq = 0
 
@@ -12,3 +17,4 @@ class Solution:
                 more.append(i)
 
         return less + [pivot] * eq + more
+        
