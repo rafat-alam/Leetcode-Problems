@@ -19,4 +19,12 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [4087-maximum-substrings-with-distinct-start](https://github.com/rafat-alam/Leetcode-Problems/tree/master/4087-maximum-substrings-with-distinct-start) |
+## String
+|  |
+| ------- |
+| [4087-maximum-substrings-with-distinct-start](https://github.com/rafat-alam/Leetcode-Problems/tree/master/4087-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
