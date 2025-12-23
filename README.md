@@ -68,11 +68,13 @@ Leetcode Problems solved by me with Love.
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Leetcode Problems solved by me with Love.
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Greedy
 |  |
 | ------- |
