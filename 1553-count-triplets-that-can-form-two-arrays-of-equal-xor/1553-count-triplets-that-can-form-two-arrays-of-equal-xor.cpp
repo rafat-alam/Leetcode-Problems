@@ -9,11 +9,9 @@ public:
 
         int cnt = 0;
         for(int i = 0; i < n; i++) {
-            for(int j = i + 1; j < n; j++) {
-                for(int k = j; k < n; k++) {
-                    if(pf[j] ^ pf[i] == pf[k + 1] ^ pf[j]) {
-                        cnt++;
-                    }
+            for(int k = i + 1; k < n; k++) {
+                if(pf[i] == pf[k + 1]) {
+                    cnt += k - i;
                 }
             }
         }
