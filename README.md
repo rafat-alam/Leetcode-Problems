@@ -6,6 +6,7 @@ Leetcode Problems solved by me with Love.
 ## Array
 |  |
 | ------- |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -26,6 +27,7 @@ Leetcode Problems solved by me with Love.
 ## Hash Table
 |  |
 | ------- |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/rafat-alam/Leetcode-Problems/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -74,4 +76,8 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Greedy
+|  |
+| ------- |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 <!---LeetCode Topics End-->
