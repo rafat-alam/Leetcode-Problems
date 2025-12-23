@@ -8,7 +8,6 @@ Leetcode Problems solved by me with Love.
 | ------- |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
-| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -42,7 +41,6 @@ Leetcode Problems solved by me with Love.
 ## Math
 |  |
 | ------- |
-| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2481-strictly-palindromic-number](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -66,10 +64,12 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -78,12 +78,13 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 ## Greedy
 |  |
 | ------- |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
-## Geometry
+## Breadth-First Search
 |  |
 | ------- |
-| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1254-deepest-leaves-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
