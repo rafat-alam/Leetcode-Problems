@@ -8,6 +8,7 @@ Leetcode Problems solved by me with Love.
 | ------- |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -41,6 +42,7 @@ Leetcode Problems solved by me with Love.
 ## Math
 |  |
 | ------- |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2481-strictly-palindromic-number](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -80,4 +82,8 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+## Geometry
+|  |
+| ------- |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
