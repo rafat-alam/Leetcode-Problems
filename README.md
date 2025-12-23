@@ -11,6 +11,7 @@ Leetcode Problems solved by me with Love.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Backtracking
 |  |
 | ------- |
@@ -87,4 +88,12 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [1254-deepest-leaves-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
+## Sorting
+|  |
+| ------- |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
+## Matrix
+|  |
+| ------- |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
