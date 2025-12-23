@@ -6,7 +6,7 @@ Leetcode Problems solved by me with Love.
 ## Array
 |  |
 | ------- |
-| [1381-maximum-score-words-formed-by-letters](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1022-unique-paths-iii](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1022-unique-paths-iii) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -17,12 +17,12 @@ Leetcode Problems solved by me with Love.
 ## Backtracking
 |  |
 | ------- |
-| [1381-maximum-score-words-formed-by-letters](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1022-unique-paths-iii](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1022-unique-paths-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
-| [1381-maximum-score-words-formed-by-letters](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1022-unique-paths-iii](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1022-unique-paths-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Enumeration
@@ -32,13 +32,11 @@ Leetcode Problems solved by me with Love.
 ## Hash Table
 |  |
 | ------- |
-| [1381-maximum-score-words-formed-by-letters](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/rafat-alam/Leetcode-Problems/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
-| [1381-maximum-score-words-formed-by-letters](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/rafat-alam/Leetcode-Problems/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## Prefix Sum
@@ -102,21 +100,10 @@ Leetcode Problems solved by me with Love.
 ## Matrix
 |  |
 | ------- |
+| [1022-unique-paths-iii](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1022-unique-paths-iii) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [1525-queries-on-a-permutation-with-key](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1381-maximum-score-words-formed-by-letters](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
-## Counting
-|  |
-| ------- |
-| [1381-maximum-score-words-formed-by-letters](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
-## Bitmask
-|  |
-| ------- |
-| [1381-maximum-score-words-formed-by-letters](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1381-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->
