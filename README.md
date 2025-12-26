@@ -17,6 +17,7 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/rafat-alam/Leetcode-Problems/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## Prefix Sum
 |  |
@@ -89,6 +91,7 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -105,4 +108,8 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [1525-queries-on-a-permutation-with-key](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
+## Stack
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
