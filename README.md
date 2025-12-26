@@ -14,6 +14,7 @@ Leetcode Problems solved by me with Love.
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3748-sort-matrix-by-diagonals](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Backtracking
 |  |
 | ------- |
@@ -103,10 +104,12 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3748-sort-matrix-by-diagonals](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
 | ------- |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3748-sort-matrix-by-diagonals](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Indexed Tree
 |  |
 | ------- |
