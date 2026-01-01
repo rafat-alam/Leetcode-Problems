@@ -8,6 +8,7 @@ Leetcode Problems solved by me with Love.
 | ------- |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -49,6 +50,7 @@ Leetcode Problems solved by me with Love.
 ## Math
 |  |
 | ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2481-strictly-palindromic-number](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -95,6 +97,7 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Breadth-First Search
 |  |
@@ -103,6 +106,7 @@ Leetcode Problems solved by me with Love.
 ## Sorting
 |  |
 | ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
@@ -118,4 +122,8 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
