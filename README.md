@@ -12,6 +12,7 @@ Leetcode Problems solved by me with Love.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -43,6 +44,7 @@ Leetcode Problems solved by me with Love.
 | ------- |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/rafat-alam/Leetcode-Problems/tree/master/4087-maximum-substrings-with-distinct-start) |
@@ -55,6 +57,7 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
@@ -124,6 +127,7 @@ Leetcode Problems solved by me with Love.
 ## Matrix
 |  |
 | ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Indexed Tree
