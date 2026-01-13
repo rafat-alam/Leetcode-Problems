@@ -7,6 +7,7 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0921-spiral-matrix-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -94,6 +95,7 @@ Leetcode Problems solved by me with Love.
 ## Tree
 |  |
 | ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -110,11 +112,13 @@ Leetcode Problems solved by me with Love.
 ## Binary Search Tree
 |  |
 | ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -154,6 +158,7 @@ Leetcode Problems solved by me with Love.
 ## Stack
 |  |
 | ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Game Theory
 |  |
@@ -171,4 +176,8 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
