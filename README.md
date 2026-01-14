@@ -7,6 +7,7 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0921-spiral-matrix-iii) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
@@ -82,6 +83,7 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0921-spiral-matrix-iii) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -140,6 +142,7 @@ Leetcode Problems solved by me with Love.
 ## Sorting
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
@@ -180,4 +183,8 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
