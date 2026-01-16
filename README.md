@@ -27,6 +27,7 @@ Leetcode Problems solved by me with Love.
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -45,6 +46,7 @@ Leetcode Problems solved by me with Love.
 ## Hash Table
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1752-arithmetic-subarrays](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1752-arithmetic-subarrays) |
@@ -53,6 +55,7 @@ Leetcode Problems solved by me with Love.
 ## String
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -190,4 +193,8 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+## Counting
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
