@@ -27,6 +27,7 @@ Leetcode Problems solved by me with Love.
 ## Backtracking
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -111,6 +112,7 @@ Leetcode Problems solved by me with Love.
 ## Depth-First Search
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -142,6 +144,7 @@ Leetcode Problems solved by me with Love.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1254-deepest-leaves-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Sorting
@@ -197,4 +200,8 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
+## Graph Theory
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
