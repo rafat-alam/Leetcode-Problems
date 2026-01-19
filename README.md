@@ -61,6 +61,7 @@ Leetcode Problems solved by me with Love.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/rafat-alam/Leetcode-Problems/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## Prefix Sum
@@ -154,6 +155,7 @@ Leetcode Problems solved by me with Love.
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-arithmetic-subarrays](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2887-sort-vowels-in-a-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
