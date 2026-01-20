@@ -64,6 +64,7 @@ Leetcode Problems solved by me with Love.
 | [2456-construct-smallest-number-from-di-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3540-hash-divided-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3540-hash-divided-string) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/rafat-alam/Leetcode-Problems/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## Prefix Sum
 |  |
@@ -97,6 +98,7 @@ Leetcode Problems solved by me with Love.
 | [2271-rearrange-array-elements-by-sign](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [3540-hash-divided-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3540-hash-divided-string) |
 ## Linked List
 |  |
 | ------- |
