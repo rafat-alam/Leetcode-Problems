@@ -9,6 +9,7 @@ Leetcode Problems solved by me with Love.
 | [0921-spiral-matrix-iii](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1253-sort-the-matrix-diagonally](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -152,6 +153,7 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1253-sort-the-matrix-diagonally](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-arithmetic-subarrays](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -161,6 +163,7 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0921-spiral-matrix-iii) |
+| [1253-sort-the-matrix-diagonally](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
