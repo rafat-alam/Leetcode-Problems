@@ -21,6 +21,7 @@ Leetcode Problems solved by me with Love.
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2411-spiral-matrix-iv](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -101,6 +102,7 @@ Leetcode Problems solved by me with Love.
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3540-hash-divided-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3540-hash-divided-string) |
 ## Linked List
@@ -108,6 +110,7 @@ Leetcode Problems solved by me with Love.
 | ------- |
 | [1765-merge-in-between-linked-lists](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Tree
 |  |
@@ -174,6 +177,7 @@ Leetcode Problems solved by me with Love.
 | [1253-sort-the-matrix-diagonally](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2411-spiral-matrix-iv](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
