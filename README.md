@@ -13,6 +13,7 @@ Leetcode Problems solved by me with Love.
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1752-arithmetic-subarrays](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
@@ -144,6 +145,7 @@ Leetcode Problems solved by me with Love.
 | [1285-balance-a-binary-search-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Breadth-First Search
@@ -167,6 +169,7 @@ Leetcode Problems solved by me with Love.
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1253-sort-the-matrix-diagonally) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
