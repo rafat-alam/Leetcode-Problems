@@ -21,6 +21,7 @@ Leetcode Problems solved by me with Love.
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -81,6 +82,7 @@ Leetcode Problems solved by me with Love.
 | [1674-minimum-operations-to-make-array-equal](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
@@ -102,6 +104,7 @@ Leetcode Problems solved by me with Love.
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3540-hash-divided-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3540-hash-divided-string) |
@@ -223,4 +226,8 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
