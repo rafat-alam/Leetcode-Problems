@@ -6,6 +6,7 @@ Leetcode Problems solved by me with Love.
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0078-subsets) |
 | [0921-spiral-matrix-iii](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -31,6 +32,7 @@ Leetcode Problems solved by me with Love.
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0078-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -39,6 +41,7 @@ Leetcode Problems solved by me with Love.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0078-subsets) |
 | [1940-maximum-xor-for-each-query](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
