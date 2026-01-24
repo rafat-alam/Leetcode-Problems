@@ -18,6 +18,7 @@ Leetcode Problems solved by me with Love.
 | [1752-arithmetic-subarrays](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1752-arithmetic-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1940-maximum-xor-for-each-query) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -91,6 +92,7 @@ Leetcode Problems solved by me with Love.
 ## Two Pointers
 |  |
 | ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2481-strictly-palindromic-number) |
@@ -159,6 +161,7 @@ Leetcode Problems solved by me with Love.
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Breadth-First Search
 |  |
@@ -173,6 +176,7 @@ Leetcode Problems solved by me with Love.
 | [1253-sort-the-matrix-diagonally](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-arithmetic-subarrays](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1752-arithmetic-subarrays) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rafat-alam/Leetcode-Problems/tree/master/3748-sort-matrix-by-diagonals) |
