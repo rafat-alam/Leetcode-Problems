@@ -65,6 +65,7 @@ Leetcode Problems solved by me with Love.
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [1160-letter-tile-possibilities](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -237,4 +238,8 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
