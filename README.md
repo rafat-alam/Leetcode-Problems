@@ -84,6 +84,7 @@ Leetcode Problems solved by me with Love.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0050-powx-n) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -242,4 +243,8 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0091-decode-ways) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
