@@ -59,6 +59,7 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1160-letter-tile-possibilities](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -69,6 +70,7 @@ Leetcode Problems solved by me with Love.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0091-decode-ways](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [1160-letter-tile-possibilities](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -259,4 +261,8 @@ Leetcode Problems solved by me with Love.
 | ------- |
 | [0002-add-two-numbers](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0050-powx-n) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
