@@ -6,6 +6,7 @@ Leetcode Problems solved by me with Love.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0078-subsets) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0921-spiral-matrix-iii](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0921-spiral-matrix-iii) |
@@ -57,6 +58,7 @@ Leetcode Problems solved by me with Love.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0001-two-sum) |
 | [1160-letter-tile-possibilities](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
