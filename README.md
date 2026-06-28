@@ -71,6 +71,7 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [1160-letter-tile-possibilities](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -101,6 +102,7 @@ Leetcode Problems solved by me with Love.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rafat-alam/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -255,6 +257,7 @@ Leetcode Problems solved by me with Love.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0091-decode-ways) |
 ## Recursion
 |  |
