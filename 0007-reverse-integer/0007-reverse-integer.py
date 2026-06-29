@@ -1,12 +1,22 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        res = 0
+        is_neg = False
+
         if x < 0:
-            res = int(str(x)[1:][::-1]) * -1
-        else:
-            res = int(str(x)[::-1])
+            if x == -2 ** 31:
+                return 0
+            is_neg = True
+            x = -x
         
-        if res > 2 ** 31 - 1 or res < -2 ** 31:
-            return 0
+        num = 0
+
+        while x > 0:
+            if num > ((2 ** 31 - 1) - (x % 10)) / 10:
+                return 0
+            num *= 10
+            num += x % 10
+            x //= 10
         
-        return res
+        if is_neg:
+            return -num
+        return num
