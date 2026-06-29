@@ -93,6 +93,7 @@ Leetcode Problems solved by me with Love.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/rafat-alam/Leetcode-Problems/tree/master/0050-powx-n) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/rafat-alam/Leetcode-Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
